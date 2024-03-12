@@ -1,6 +1,6 @@
 {
   "name": "onedionys-image-loading-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Image Loading Utilities) - Functions for loading and manipulating images in web applications.",
   "main": "src/imageLoadingUtilities.js",
   "directories": {
